@@ -4,10 +4,10 @@
 This project outlines the process of setting up and testing a VPN for secure remote access. It includes client setup and basic traffic verification.
 
 ## 🛠️ Tools Used
-- OpenVPN / WireGuard (or specify what you used)
-- Windows Server or Ubuntu (VPN host)
-- Windows 10 Client (VPN user)
-- Wireshark (for basic traffic capture)
+- Microsoft Azure
+- ProtonVPN
+- Windows 10 Client (VPN User)
+- Wireshark (Traffic Capture)
 
 ## ⚙️ Setup Summary
 1. Installed and configured VPN server on a virtual machine
