@@ -1,7 +1,7 @@
 # 🌐 VPN Setup & Usage
 
 ## 📝 Project Overview
-This project outlines the process of setting up and testing a VPN for secure remote access. It includes client setup, basic traffic verification, and security benefits.
+This project outlines the process of setting up and testing a VPN for secure remote access. It includes client setup and basic traffic verification.
 
 ## 🛠️ Tools Used
 - OpenVPN / WireGuard (or specify what you used)
