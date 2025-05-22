@@ -8,8 +8,7 @@ This project demonstrates how to set up and validate a VPN connection using **Pr
 
 ### 1. Install ProtonVPN
 - Download and install the ProtonVPN desktop app.
-- [![ProtonVPN Setup](<img width="1792" alt="ProtonVPN_Setup" src="https://github.com/user-attachments/assets/5a193a0f-2e8a-4d57-abd0-5484bd7a02a7" />
-)]()
+- ![ProtonVPN Installed](https://imgur.com/a/saqdbrE)
 
 ### 2. Connect to a VPN Server
 - Choose a server (e.g., Romania `RO-FREE#5`) and connect using WireGuard (UDP).
