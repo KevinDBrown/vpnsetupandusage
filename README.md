@@ -88,5 +88,5 @@ This project showcases how to implement, validate, and troubleshoot VPN usage bo
 
 ## 📬 Contact
 
-Feel free to [connect with me](https://www.linkedin.com/in/yourlinkedin) or open an issue if you’d like to suggest improvements or collaborate on projects!
+Feel free to [connect with me](https://www.linkedin.com/kevindeonbrown) or open an issue if you’d like to suggest improvements or collaborate on projects!
 
